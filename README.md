@@ -1,3 +1,4 @@
-#LIVRO DE RECEITAS
+# LIVRO DE RECEITAS
 
-... procurando um editor de MarkDown
+ - 01 - Strogonoff de frango
+ - 02 - Pavê de doce de leite
